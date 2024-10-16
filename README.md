@@ -13,5 +13,6 @@
 |  Lv.1  |  [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)  |  [12922](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12922.js)  |      |
 |  Lv.1  |  [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925)   |  [12925](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12925.js)  |      |
 |  Lv.1  |    [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)     |  [12948](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12948.js)  |      |
+|  Lv.1  |         [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)          |  [42748](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/42748.js)  |      |
 |  Lv.1  |     [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)      |  [86051](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/86051.js)  |      |
 |  Lv.1  |       [최소 직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)       |  [86491](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/86491.js)  |      |
