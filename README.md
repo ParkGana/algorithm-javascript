@@ -28,3 +28,4 @@
 |  Lv.1  |       [최소 직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)       |  [86491](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/86491.js)  |     O     |           |
 |  Lv.1  |      [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)       |  [92334](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/92334.js)  |     X     | 시간 초과 |
 |  Lv.1  |      [문자열 나누기](https://programmers.co.kr/learn/courses/30/lessons/140108)       | [140108](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/140108.js) |     O     |           |
+|  Lv.1  |       [달리기 경주](https://programmers.co.kr/learn/courses/30/lessons/178871)        | [178871](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/178871.js) |     X     | 시간 초과 |
