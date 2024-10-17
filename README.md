@@ -6,6 +6,7 @@
 
 | 난이도 |                                    문제                                    |                                                코드                                                 | 해결 여부 | 비고 |
 | :----: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :-------: | :--: |
+|  Lv.0  |  [두 수의 차](https://programmers.co.kr/learn/courses/30/lessons/120803)   | [120803](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level0/120803.js) |     O     |      |
 |  Lv.0  | [배열의 유사도](https://programmers.co.kr/learn/courses/30/lessons/120903) | [120903](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level0/120903.js) |     O     |      |
 
 <br />
