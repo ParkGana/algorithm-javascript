@@ -32,4 +32,5 @@
 |  Lv.1  |       [달리기 경주](https://programmers.co.kr/learn/courses/30/lessons/178871)        | [178871](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/178871.js) |     X     | 시간 초과 |
 |  Lv.1  |        [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)        |  [12977](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12977.js)  |     O     |           |
 |  Lv.1  |       [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)       |  [67256](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/67256.js)  |     O     |           |
-|  Lv.1  |          [삼총사](https://programmers.co.kr/learn/courses/30/lessons/131705)           |  [131705](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/131705.js)  |     O     |           |
+|  Lv.1  |          [삼총사](https://programmers.co.kr/learn/courses/30/lessons/131705)          | [131705](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/131705.js) |     O     |           |
+|  Lv.1  |    [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)     |  [42576](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/42576.js)  |     O     |           |
