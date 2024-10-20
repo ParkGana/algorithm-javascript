@@ -10,6 +10,7 @@
 |  Lv.0  |  [두 수의 차](https://programmers.co.kr/learn/courses/30/lessons/120803)   | [120803](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level0/120803.js) |     O     |      |
 |  Lv.0  |  [두 수의 곱](https://programmers.co.kr/learn/courses/30/lessons/120804)   | [120804](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level0/120804.js) |     O     |      |
 |  Lv.0  |   [몫 구하기](https://programmers.co.kr/learn/courses/30/lessons/120805)   | [120805](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level0/120805.js) |     O     |      |
+|  Lv.0  |   [나이 출력](https://programmers.co.kr/learn/courses/30/lessons/120820)   | [120820](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level0/120820.js) |     O     |      |
 
 <br />
 
