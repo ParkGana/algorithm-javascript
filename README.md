@@ -40,7 +40,8 @@
 
 | 난이도 |                                    문제                                     |                                               코드                                                | 해결 여부 | 비고 |
 | :----: | :-------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :-------: | :--: |
-|  Lv.2  | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) | [12939](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12939.js) |     O     |      |
+|  Lv.2  | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) | [12939](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level2/12939.js) |     O     |      |
+|  Lv.2  |  [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)   | [12911](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level2/12911.js) |     O     |      |
 
 <br />
 
