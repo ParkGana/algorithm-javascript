@@ -35,6 +35,7 @@
 |  Lv.1  |       [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)       |  [67256](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/67256.js)  |     O     |           |
 |  Lv.1  |          [삼총사](https://programmers.co.kr/learn/courses/30/lessons/131705)          | [131705](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/131705.js) |     O     |           |
 |  Lv.1  |    [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)     |  [42576](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/42576.js)  |     O     |           |
+|  Lv.1  |       [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)        |  [68935](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/68935.js)  |     O     |           |
 
 <br />
 
