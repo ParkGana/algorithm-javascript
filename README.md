@@ -40,6 +40,7 @@
 |  Lv.1  |         [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)          |  [42840](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/42840.js)  |     O     |           |
 |  Lv.1  |       [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)       |  [12931](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12931.js)  |     O     |           |
 |  Lv.1  |        [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)        |  [12937](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12937.js)  |     O     |           |
+|  Lv.1  |     [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)     |  [12912](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12912.js)  |     O     |           |
 
 <br />
 
