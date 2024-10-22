@@ -38,6 +38,7 @@
 |  Lv.1  |    [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)     |  [42576](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/42576.js)  |     O     |           |
 |  Lv.1  |       [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)        |  [68935](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/68935.js)  |     O     |           |
 |  Lv.1  |         [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)          |  [42840](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/42840.js)  |     O     |           |
+|  Lv.1  |       [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)       |  [12931](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12931.js)  |     O     |           |
 
 <br />
 
