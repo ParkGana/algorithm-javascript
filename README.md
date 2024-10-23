@@ -4,15 +4,16 @@
 
 <br />
 
-| 난이도 |                                    문제                                    |                                                코드                                                 | 해결 여부 | 비고 |
-| :----: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :-------: | :--: |
-|  Lv.0  | [배열의 유사도](https://programmers.co.kr/learn/courses/30/lessons/120903) | [120903](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level0/120903.js) |     O     |      |
-|  Lv.0  |  [두 수의 차](https://programmers.co.kr/learn/courses/30/lessons/120803)   | [120803](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level0/120803.js) |     O     |      |
-|  Lv.0  |  [두 수의 곱](https://programmers.co.kr/learn/courses/30/lessons/120804)   | [120804](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level0/120804.js) |     O     |      |
-|  Lv.0  |   [몫 구하기](https://programmers.co.kr/learn/courses/30/lessons/120805)   | [120805](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level0/120805.js) |     O     |      |
-|  Lv.0  |   [나이 출력](https://programmers.co.kr/learn/courses/30/lessons/120820)   | [120820](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level0/120820.js) |     O     |      |
-|  Lv.0  | [숫자 비교하기](https://programmers.co.kr/learn/courses/30/lessons/120807) | [120807](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level0/120807.js) |     O     |      |
-|  Lv.0  |  [두 수의 합](https://programmers.co.kr/learn/courses/30/lessons/120802)   | [120802](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level0/120802.js) |     O     |      |
+| 난이도 |                                    문제                                     |                                                코드                                                 | 해결 여부 | 비고 |
+| :----: | :-------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :-------: | :--: |
+|  Lv.0  | [배열의 유사도](https://programmers.co.kr/learn/courses/30/lessons/120903)  | [120903](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level0/120903.js) |     O     |      |
+|  Lv.0  |   [두 수의 차](https://programmers.co.kr/learn/courses/30/lessons/120803)   | [120803](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level0/120803.js) |     O     |      |
+|  Lv.0  |   [두 수의 곱](https://programmers.co.kr/learn/courses/30/lessons/120804)   | [120804](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level0/120804.js) |     O     |      |
+|  Lv.0  |   [몫 구하기](https://programmers.co.kr/learn/courses/30/lessons/120805)    | [120805](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level0/120805.js) |     O     |      |
+|  Lv.0  |   [나이 출력](https://programmers.co.kr/learn/courses/30/lessons/120820)    | [120820](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level0/120820.js) |     O     |      |
+|  Lv.0  | [숫자 비교하기](https://programmers.co.kr/learn/courses/30/lessons/120807)  | [120807](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level0/120807.js) |     O     |      |
+|  Lv.0  |   [두 수의 합](https://programmers.co.kr/learn/courses/30/lessons/120802)   | [120802](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level0/120802.js) |     O     |      |
+|  Lv.0  | [두 수의 나눗셈](https://programmers.co.kr/learn/courses/30/lessons/120806) | [120806](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level0/120806.js) |     O     |      |
 
 <br />
 
