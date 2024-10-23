@@ -43,6 +43,7 @@
 |  Lv.1  |        [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)        |  [12937](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12937.js)  |     O     |           |
 |  Lv.1  |     [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)     |  [12912](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12912.js)  |     O     |           |
 |  Lv.1  |     [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)      |  [12906](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12906.js)  |     O     |           |
+|  Lv.1  |   [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)   |  [12935](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12935.js)  |     O     |           |
 
 <br />
 
