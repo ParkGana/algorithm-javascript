@@ -14,6 +14,7 @@
 |  Lv.0  | [숫자 비교하기](https://programmers.co.kr/learn/courses/30/lessons/120807)  | [120807](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level0/120807.js) |     O     |      |
 |  Lv.0  |   [두 수의 합](https://programmers.co.kr/learn/courses/30/lessons/120802)   | [120802](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level0/120802.js) |     O     |      |
 |  Lv.0  | [두 수의 나눗셈](https://programmers.co.kr/learn/courses/30/lessons/120806) | [120806](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level0/120806.js) |     O     |      |
+|  Lv.0  |     [각도기](https://programmers.co.kr/learn/courses/30/lessons/120829)     | [120829](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level0/120829.js) |     O     |      |
 
 <br />
 
