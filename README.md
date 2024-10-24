@@ -49,6 +49,7 @@
 |  Lv.1  |    [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)     |  [12930](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12930.js)  |     O     |           |
 |  Lv.1  |        [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)        |  [12950](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12950.js)  |     O     |           |
 |  Lv.1  |         [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)         |  [12926](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12926.js)  |     O     |           |
+|  Lv.1  |        [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)        |  [12943](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12943.js)  |     O     |           |
 
 <br />
 
