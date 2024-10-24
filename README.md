@@ -52,6 +52,7 @@
 |  Lv.1  |        [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)        |  [12943](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12943.js)  |     O     |           |
 |  Lv.1  |         [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)         |  [12947](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12947.js)  |     O     |           |
 |  Lv.1  |           [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)            |  [12982](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12982.js)  |     O     |           |
+|  Lv.1  |  [가장 가까운 같은 글자](https://programmers.co.kr/learn/courses/30/lessons/142086)   | [142086](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/142086.js) |     O     |           |
 
 <br />
 
