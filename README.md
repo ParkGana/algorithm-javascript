@@ -59,6 +59,7 @@
 |  Lv.1  | [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) |  [12954](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12954.js)  |     O     |           |
 |  Lv.1  |  [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)   |  [87389](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/87389.js)  |     O     |           |
 |  Lv.1  |    [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)    |  [12916](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12916.js)  |     O     |           |
+|  Lv.1  |       [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)       |  [12934](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12934.js)  |     O     |           |
 
 <br />
 
