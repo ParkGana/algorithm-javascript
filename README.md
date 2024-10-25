@@ -55,6 +55,7 @@
 |  Lv.1  |           [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)            |  [12982](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12982.js)  |     O     |           |
 |  Lv.1  |  [가장 가까운 같은 글자](https://programmers.co.kr/learn/courses/30/lessons/142086)   | [142086](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/142086.js) |     O     |           |
 |  Lv.1  |         [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)         |  [12928](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12928.js)  |     O     |           |
+|  Lv.1  |        [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)        |  [12944](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12944.js)  |     O     |           |
 
 <br />
 
