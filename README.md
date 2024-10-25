@@ -57,6 +57,7 @@
 |  Lv.1  |          [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)           |  [12928](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12928.js)  |     O     |           |
 |  Lv.1  |         [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)          |  [12944](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12944.js)  |     O     |           |
 |  Lv.1  | [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) |  [12954](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12954.js)  |     O     |           |
+|  Lv.1  |  [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)   |  [87389](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/87389.js)  |     O     |           |
 
 <br />
 
