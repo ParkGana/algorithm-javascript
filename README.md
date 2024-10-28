@@ -71,6 +71,7 @@
 |  Lv.2  |   [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)   | [12909](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level2/12909.js) |     O     |      |
 |  Lv.2  |    [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)     | [42885](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level2/42885.js) |     O     |      |
 |  Lv.2  |  [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)  | [12941](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level2/12941.js) |     O     |      |
+|  Lv.2  |   [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)   | [12945](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level2/12945.js) |     X     | 실패 |
 
 <br />
 
