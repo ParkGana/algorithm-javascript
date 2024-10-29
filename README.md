@@ -64,14 +64,15 @@
 
 <br />
 
-| 난이도 |                                    문제                                     |                                               코드                                                | 해결 여부 | 비고 |
-| :----: | :-------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :-------: | :--: |
-|  Lv.2  | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) | [12939](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level2/12939.js) |     O     |      |
-|  Lv.2  |  [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)   | [12911](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level2/12911.js) |     O     |      |
-|  Lv.2  |   [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)   | [12909](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level2/12909.js) |     O     |      |
-|  Lv.2  |    [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)     | [42885](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level2/42885.js) |     O     |      |
-|  Lv.2  |  [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)  | [12941](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level2/12941.js) |     O     |      |
-|  Lv.2  |   [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)   | [12945](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level2/12945.js) |     O     | 실패 |
+| 난이도 |                                    문제                                     |                                               코드                                                | 해결 여부 |    비고     |
+| :----: | :-------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :-------: | :---------: |
+|  Lv.2  | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) | [12939](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level2/12939.js) |     O     |             |
+|  Lv.2  |  [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)   | [12911](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level2/12911.js) |     O     |             |
+|  Lv.2  |   [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)   | [12909](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level2/12909.js) |     O     |             |
+|  Lv.2  |    [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)     | [42885](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level2/42885.js) |     O     |             |
+|  Lv.2  |  [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)  | [12941](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level2/12941.js) |     O     |             |
+|  Lv.2  |   [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)   | [12945](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level2/12945.js) |     O     |    실패     |
+|  Lv.2  | [n^2 배열 자르기](https://programmers.co.kr/learn/courses/30/lessons/87390) | [87390](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level2/87390.js) |     X     | 런타임 에러 |
 
 <br />
 
