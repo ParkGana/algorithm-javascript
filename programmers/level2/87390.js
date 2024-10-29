@@ -5,6 +5,23 @@
 /**************************************************/
 
 /* 정답 */
+function solution(n, left, right) {
+    let answer = [];
+
+    let row = parseInt(left / n) + 1;
+    let col = (left % n) + 1;
+    let index = left;
+
+    while (index <= right) {
+        answer.push(row > col ? row : col);
+
+        row = col < n ? row : row + 1;
+        col = col < n ? col + 1 : 1;
+        index++;
+    }
+
+    return answer;
+}
 
 /**************************************************/
 
@@ -28,6 +45,9 @@ function solution(n, left, right) {
 
 /* 시간 초과 */
 function solution(n, left, right) {
+    // [ 예상 원인 ]
+    // n이 최대 n^7이므로 n * n 크기의 2차원 배열의 요소를 순회하는 것은 바람직하지 않음
+
     let answer = [];
 
     for (let row = 1; row <= n; row++) {
