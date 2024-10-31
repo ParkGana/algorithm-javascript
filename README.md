@@ -66,6 +66,7 @@
 |  Lv.1  |             [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)             |  [70128](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/70128.js)  |     O     |           |
 |  Lv.1  |      [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)      |  [77884](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/77884.js)  |     O     |           |
 |  Lv.1  | [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917) |  [12917](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12917.js)  |     O     |           |
+|  Lv.1  |      [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)      |  [12918](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12918.js)  |     X     |   실패    |
 
 <br />
 
