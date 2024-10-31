@@ -63,6 +63,7 @@
 |  Lv.1  |       [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)       |  [12934](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12934.js)  |     O     |           |
 |  Lv.1  | [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932)  |  [12932](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12932.js)  |     O     |           |
 |  Lv.1  |  [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933)  |  [12933](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12933.js)  |     O     |           |
+|  Lv.1  |             [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)             |  [70128](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/70128.js)  |     O     |           |
 
 <br />
 
