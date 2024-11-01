@@ -58,6 +58,7 @@
 |  Lv.1  |             [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)             |  [70128](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/70128.js)  |     O     |           |
 |  Lv.1  |         [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)          |  [76501](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/76501.js)  |     O     |           |
 |  Lv.1  |      [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)      |  [77884](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/77884.js)  |     O     |           |
+|  Lv.1  |     [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)     |  [81301](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/81301.js)  |     O     |           |
 |  Lv.1  |     [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)     |  [82612](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/82612.js)  |     O     |           |
 |  Lv.1  |       [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)       |  [86051](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/86051.js)  |     O     |           |
 |  Lv.1  |        [최소 직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)         |  [86491](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/86491.js)  |     O     |           |
