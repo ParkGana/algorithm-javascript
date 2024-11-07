@@ -41,6 +41,7 @@
 |  Lv.1  |       [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)       |  [12934](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12934.js)  |     O     |           |
 |  Lv.1  |    [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)     |  [12935](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12935.js)  |     O     |           |
 |  Lv.1  |         [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)          |  [12937](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12937.js)  |     O     |           |
+|  Lv.1  |   [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)    |  [12940](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12940.js)  |     O     |           |
 |  Lv.1  |         [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)          |  [12943](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12943.js)  |     O     |           |
 |  Lv.1  |         [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)          |  [12944](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12944.js)  |     O     |           |
 |  Lv.1  |          [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)           |  [12947](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12947.js)  |     O     |           |
