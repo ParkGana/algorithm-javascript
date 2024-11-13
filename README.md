@@ -26,6 +26,7 @@
 |  Lv.1  |       [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)       |  [12906](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12906.js)  |     O     |           |
 |  Lv.1  |  [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)   |  [12910](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12910.js)  |     O     |           |
 |  Lv.1  |      [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)       |  [12912](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12912.js)  |     O     |           |
+|  Lv.1  | [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)  |  [12915](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12915.js)  |     O     |           |
 |  Lv.1  |    [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)    |  [12916](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12916.js)  |     O     |           |
 |  Lv.1  | [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917) |  [12917](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12917.js)  |     O     |           |
 |  Lv.1  |      [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)      |  [12918](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12918.js)  |     O     |   실패    |
