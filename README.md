@@ -51,6 +51,7 @@
 |  Lv.1  | [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) |  [12954](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12954.js)  |     O     |           |
 |  Lv.1  |         [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)          |  [12977](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12977.js)  |     O     |           |
 |  Lv.1  |             [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)             |  [12982](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12982.js)  |     O     |           |
+|  Lv.1  |        [[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)        |  [17681](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/17681.js)  |     O     |           |
 |  Lv.1  |      [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)      |  [42576](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/42576.js)  |     O     |           |
 |  Lv.1  |           [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)           |  [42748](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/42748.js)  |     O     |           |
 |  Lv.1  |           [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)           |  [42840](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/42840.js)  |     O     |           |
