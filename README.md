@@ -70,6 +70,7 @@
 |  Lv.1  |           [삼총사](https://programmers.co.kr/learn/courses/30/lessons/131705)            | [131705](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/131705.js) |     O     |           |
 |  Lv.1  |          [콜라 문제](https://programmers.co.kr/learn/courses/30/lessons/132267)          | [132267](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/132267.js) |     O     |           |
 |  Lv.1  |      [푸트 파이트 대회](https://programmers.co.kr/learn/courses/30/lessons/134240)       | [134240](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/134240.js) |     O     |           |
+|  Lv.1  |       [명예의 전당 (1)](https://programmers.co.kr/learn/courses/30/lessons/138477)       | [138477](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/138477.js) |     O     |           |
 |  Lv.1  |        [문자열 나누기](https://programmers.co.kr/learn/courses/30/lessons/140108)        | [140108](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/140108.js) |     O     |           |
 |  Lv.1  |    [가장 가까운 같은 글자](https://programmers.co.kr/learn/courses/30/lessons/142086)    | [142086](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/142086.js) |     O     |           |
 |  Lv.1  |   [크기가 작은 부분 문자열](https://programmers.co.kr/learn/courses/30/lessons/147355)   | [147355](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/147355.js) |     O     |           |
