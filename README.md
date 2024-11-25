@@ -49,6 +49,7 @@
 |  Lv.1  |      [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)      |  [12948](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12948.js)  |     O     |           |
 |  Lv.1  |         [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)          |  [12950](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12950.js)  |     O     |           |
 |  Lv.1  | [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) |  [12954](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12954.js)  |     O     |           |
+|  Lv.1  |       [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)        |  [12969](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12969.js)  |     O     |           |
 |  Lv.1  |         [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)          |  [12977](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12977.js)  |     O     |           |
 |  Lv.1  |             [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)             |  [12982](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12982.js)  |     O     |           |
 |  Lv.1  |        [[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)        |  [17681](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/17681.js)  |     O     |           |
