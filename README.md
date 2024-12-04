@@ -23,6 +23,7 @@
 | 난이도 |                                           문제                                           |                                                코드                                                 | 해결 여부 |   비고    |
 | :----: | :--------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :-------: | :-------: |
 |  Lv.1  |            [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)             |   [1845](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/1845.js)   |     O     |           |
+|  Lv.1  |            [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)            |  [12901](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12901.js)  |     O     |           |
 |  Lv.1  |     [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)     |  [12903](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12903.js)  |     O     |           |
 |  Lv.1  |       [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)       |  [12906](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12906.js)  |     O     |           |
 |  Lv.1  |  [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)   |  [12910](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/12910.js)  |     O     |           |
