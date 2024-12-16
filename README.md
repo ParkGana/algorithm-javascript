@@ -63,6 +63,7 @@
 |  Lv.1  |         [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)         |  [68935](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/68935.js)  |     O     |           |
 |  Lv.1  |             [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)             |  [70128](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/70128.js)  |     O     |           |
 |  Lv.1  |         [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)          |  [76501](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/76501.js)  |     O     |           |
+|  Lv.1  | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) |  [77484](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/77484.js)  |     O     |           |
 |  Lv.1  |      [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)      |  [77884](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/77884.js)  |     O     |           |
 |  Lv.1  |     [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)     |  [81301](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/81301.js)  |     O     |           |
 |  Lv.1  |     [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)     |  [82612](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/82612.js)  |     O     |           |
@@ -82,8 +83,6 @@
 |  Lv.1  |        [바탕화면 정리](https://programmers.co.kr/learn/courses/30/lessons/161990)        | [161990](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/161990.js) |     O     |           |
 |  Lv.1  |          [추억 점수](https://programmers.co.kr/learn/courses/30/lessons/176963)          | [176963](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/176963.js) |     O     |           |
 |  Lv.1  |         [달리기 경주](https://programmers.co.kr/learn/courses/30/lessons/178871)         | [178871](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/178871.js) |     O     | 시간 초과 |
-
-<br />
 
 | 난이도 |                                    문제                                     |                                               코드                                                | 해결 여부 |          비고           |
 | :----: | :-------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :-------: | :---------------------: |
