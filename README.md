@@ -73,6 +73,7 @@
 |  Lv.1  |        [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)        |  [92334](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/92334.js)  |     O     | 시간 초과 |
 |  Lv.1  |           [삼총사](https://programmers.co.kr/learn/courses/30/lessons/131705)            | [131705](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/131705.js) |     O     |           |
 |  Lv.1  |          [콜라 문제](https://programmers.co.kr/learn/courses/30/lessons/132267)          | [132267](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/132267.js) |     O     |           |
+|  Lv.1  |         [옹알이 (2)](https://programmers.co.kr/learn/courses/30/lessons/133499)          | [133499](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/133499.js) |     O     |           |
 |  Lv.1  |      [푸트 파이트 대회](https://programmers.co.kr/learn/courses/30/lessons/134240)       | [134240](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/134240.js) |     O     |           |
 |  Lv.1  |          [과일 장수](https://programmers.co.kr/learn/courses/30/lessons/135808)          | [135808](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/135808.js) |     O     |           |
 |  Lv.1  |       [명예의 전당 (1)](https://programmers.co.kr/learn/courses/30/lessons/138477)       | [138477](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/138477.js) |     O     |           |
