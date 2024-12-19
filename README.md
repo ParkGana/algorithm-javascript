@@ -78,6 +78,7 @@
 |  Lv.1  |         [옹알이 (2)](https://programmers.co.kr/learn/courses/30/lessons/133499)          | [133499](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/133499.js) |     O     |             |
 |  Lv.1  |      [푸트 파이트 대회](https://programmers.co.kr/learn/courses/30/lessons/134240)       | [134240](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/134240.js) |     O     |             |
 |  Lv.1  |          [과일 장수](https://programmers.co.kr/learn/courses/30/lessons/135808)          | [135808](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/135808.js) |     O     |             |
+|  Lv.1  |       [기사단원의 무기](https://programmers.co.kr/learn/courses/30/lessons/136798)       | [136798](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/136798.js) |     O     |             |
 |  Lv.1  |       [명예의 전당 (1)](https://programmers.co.kr/learn/courses/30/lessons/138477)       | [138477](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/138477.js) |     O     |             |
 |  Lv.1  |        [문자열 나누기](https://programmers.co.kr/learn/courses/30/lessons/140108)        | [140108](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/140108.js) |     O     |             |
 |  Lv.1  |    [가장 가까운 같은 글자](https://programmers.co.kr/learn/courses/30/lessons/142086)    | [142086](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/142086.js) |     O     |             |
