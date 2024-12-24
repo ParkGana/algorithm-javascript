@@ -72,6 +72,7 @@
 |  Lv.1  |        [최소 직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)         |  [86491](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/86491.js)  |     O     |             |
 |  Lv.1  |  [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)   |  [87389](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/87389.js)  |     O     |             |
 |  Lv.1  |        [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)        |  [92334](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/92334.js)  |     O     |  시간 초과  |
+|  Lv.1  |     [성격 유형 검사하기](https://programmers.co.kr/learn/courses/30/lessons/118666)      | [118666](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/118666.js) |     O     |             |
 |  Lv.1  |          [숫자 짝꿍](https://programmers.co.kr/learn/courses/30/lessons/131128)          | [131128](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/131128.js) |     X     | 런타임 에러 |
 |  Lv.1  |           [삼총사](https://programmers.co.kr/learn/courses/30/lessons/131705)            | [131705](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/131705.js) |     O     |             |
 |  Lv.1  |          [콜라 문제](https://programmers.co.kr/learn/courses/30/lessons/132267)          | [132267](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level1/132267.js) |     O     |             |
