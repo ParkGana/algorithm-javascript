@@ -101,6 +101,7 @@
 |  Lv.2  |     [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)     | [12973](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level2/12973.js) |     O     |                         |
 |  Lv.2  |          [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)           | [42842](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level2/42842.js) |     O     |                         |
 |  Lv.2  |        [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)         | [42885](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level2/42885.js) |     O     |                         |
+|  Lv.2  |   [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)    | [70129](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level2/70129.js) |     O     |                         |
 |  Lv.2  |     [n^2 배열 자르기](https://programmers.co.kr/learn/courses/30/lessons/87390)     | [87390](https://github.com/ParkGana/algorithm-javascript/blob/master/programmers/level2/87390.js) |     O     | 런타임 에러 / 시간 초과 |
 
 <br />
